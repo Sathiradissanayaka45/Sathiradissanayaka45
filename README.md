@@ -29,12 +29,13 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
-<p><img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathiradissanayaka45&show_icons=true&locale=en&layout=compact" alt="sathiradissanayaka45" /></p>
+<p><img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathiradissanayaka45&show_icons=true&locale=en&layout=compact&theme=dark" alt="sathiradissanayaka45" /></p>
 
-<p>&nbsp;<img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=sathiradissanayaka45&show_icons=true&locale=en" alt="sathiradissanayaka45" /></p>
+<p>&nbsp;<img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=sathiradissanayaka45&show_icons=true&locale=en&theme=dark" alt="sathiradissanayaka45" /></p>
 
-<p><img width=390 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathiradissanayaka45&" alt="sathiradissanayaka45" /></p>
+<p><img width=390 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathiradissanayaka45&theme=dark" alt="sathiradissanayaka45" /></p>
 </div>
+
 
 </div>
 <h3 align="center">
