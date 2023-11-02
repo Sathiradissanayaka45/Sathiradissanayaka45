@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sathira+Dissanayaka!;" />
 </h1>
-<h3 align="center">A passionate BACKEND developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://storage.ning.com/topology/rest/1.0/file/get/8667507462?profile=RESIZE_710x">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathiradissanayaka45&label=Profile%20views&color=0e75b6&style=flat" alt="sathiradissanayaka45" /> </p>
