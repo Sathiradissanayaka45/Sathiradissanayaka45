@@ -1,7 +1,8 @@
-<img src="http://www.webliquidinfotech.com/wp-content/uploads/2018/07/java-banner-1.jpg" width="100%">
+<img src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" width="100%" height="400">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sathira+Dissanayaka!;" />
 </h1>
+
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://storage.ning.com/topology/rest/1.0/file/get/8667507462?profile=RESIZE_710x">
 
