@@ -6,7 +6,6 @@
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://storage.ning.com/topology/rest/1.0/file/get/8667507462?profile=RESIZE_710x">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathiradissanayaka45&label=Profile%20views&color=0e75b6&style=flat" alt="sathiradissanayaka45" /> </p>
 
 - 🌱 I’m currently learning **Sri Lanka Institute of Information Technology**
 
