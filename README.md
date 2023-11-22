@@ -36,14 +36,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sathiradissanayaka45&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+//### ✍️ Random Dev Quote
+//![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sathiradissanayaka45&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+//### 🔝 Top Contributed Repo
+//![](https://github-contributor-stats.vercel.app/api?username=Sathiradissanayaka45&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+//### 😂 Random Dev Meme
+//<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sathiradissanayaka45&icon=2&color=1)](https://visitcount.itsvg.in)
