@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **sathiradissanayaka45@gmail.com**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sathira-dissanayaka-973263226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathira-dissanayaka-973263226" height="30" width="40" /></a>
