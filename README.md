@@ -7,13 +7,16 @@
 <img align="right" alt="Coding" width="400" src="https://storage.ning.com/topology/rest/1.0/file/get/8667507462?profile=RESIZE_710x">
 
 
-- 🌱 I’m currently learning **Sri Lanka Institute of Information Technology**
+- 🌱 I’m currently learning at **Sri Lanka Institute of Information Technology**
 
 - 📝 I regularly write articles on [https://medium.com/@sathiradissanayaka45](https://medium.com/@sathiradissanayaka45)
 
 - 💬 Ask me about **Java, Springboot, MERN stack**
 
+- 🌐 Check out my portfolio at (https://sathiradissanayaka45.github.io/sathira__dissanayaka/)
+
 - 📫 How to reach me **sathiradissanayaka45@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
